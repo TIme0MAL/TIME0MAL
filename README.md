@@ -1,38 +1,44 @@
-🛡️ Hi there, I'm Hamza Zaoui
-Cyber Security Engineering Student | DevSecOps Enthusiast | Bug Bounty Hunter
+🛡️ Hi there, I'm Hamza Zaoui — Cyber Security Engineering Student | DevSecOps Enthusiast | Bug Bounty Hunter
 
-I'm passionate about building secure systems, automating security into DevOps, and hunting for vulnerabilities. I enjoy working on projects that bridge the gap between development, operations, and security.
+I'm passionate about building secure systems, integrating security into DevOps pipelines, and identifying vulnerabilities across modern infrastructures. I enjoy working on projects that unify development, operations, and security to deliver robust, scalable, and secure solutions.
 
 🔧 What I’m currently working on
+
 Building and improving secure CI/CD pipelines with integrated SAST/DAST tools
 
 Researching AI-driven security auditing for cloud infrastructure
 
-Developing offensive security tools for malware analysis and AV evasion
+Developing offensive security tools for malware analysis and AV/EDR evasion
 
 🧠 What I’m learning
-Advanced Kubernetes security and service mesh implementations (Istio)
 
-Policy-as-Code with Open Policy Agent (OPA)
+Advanced Kubernetes security & service mesh implementations (Istio)
 
-Cloud security best practices on AWS
+Policy-as-Code using Open Policy Agent (OPA)
 
-🚀 Projects I’ve worked on
-Secure CI/CD Pipeline – Automated security gates with Trivy, Semgrep, OWASP ZAP
+AWS cloud security best practices and threat modeling
 
-IA-Based Security Recommendations – RAG-LLM system for AWS CloudFormation auditing
+🚀 Highlighted Projects
 
-HackMe & Encrypt – Red teaming tools for malware injection and AV evasion
+Secure CI/CD Pipeline — Automated security gates using Trivy, Semgrep, and OWASP ZAP
 
-Password Security Platform – Web tool for password strength and breach checking
+AI-Based Security Recommendations — RAG-LLM system for AWS CloudFormation auditing
+
+HackMe & Encrypt — Offensive security tools for code injection and AV evasion
+
+Password Security Platform — Web tool for password strength analysis and breach checking
 
 🐛 Bug Bounty & Research
-Independently discovering and reporting critical vulnerabilities (SQLi, XSS, RCE, LFI, RFI)
+
+Independently discovering and reporting critical vulnerabilities such as SQLi, XSS, RCE, LFI/RFI, and authentication bypasses.
 
 📫 How to reach me
+
 LinkedIn: https://www.linkedin.com/in/zaoui-hamza-616257280/
-Youtube: https://www.youtube.com/@hamzazaoui-pc5gv
+
+YouTube: https://www.youtube.com/@hamzazaoui-pc5gv
+
 Email: zaouihamza263@gmail.com
 
 💼 Certifications
-eJPT | CCNA1 | AWS Cloud Practitioner | Docker & Kubernetes
+eJPT | CCNA(1,2,3) | AWS Cloud Practitioner | Docker & Kubernetes
